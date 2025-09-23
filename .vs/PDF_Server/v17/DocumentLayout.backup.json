@@ -1,12 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dilan\\source\\repos\\PDF_Server\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F62EBD-8103-4503-AF76-1F1608EEE0A4}|PDF_Server\\PDF_Server.csproj|c:\\users\\dilan\\source\\repos\\proyecto-info\\pdf_server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81F62EBD-8103-4503-AF76-1F1608EEE0A4}|PDF_Server\\PDF_Server.csproj|solutionrelative:pdf_server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F62EBD-8103-4503-AF76-1F1608EEE0A4}|PDF_Server\\PDF_Server.csproj|c:\\users\\dilan\\source\\repos\\proyecto-info\\pdf_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F62EBD-8103-4503-AF76-1F1608EEE0A4}|PDF_Server\\PDF_Server.csproj|solutionrelative:pdf_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Program.cs",
+              "RelativeDocumentMoniker": "PDF_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Program.cs",
+              "RelativeToolTip": "PDF_Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T19:11:00.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Dockerfile",
+              "RelativeDocumentMoniker": "PDF_Server\\Dockerfile",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Dockerfile",
+              "RelativeToolTip": "PDF_Server\\Dockerfile",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-23T18:40:01.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
