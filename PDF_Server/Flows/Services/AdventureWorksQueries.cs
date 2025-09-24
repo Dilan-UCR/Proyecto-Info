@@ -1,4 +1,4 @@
-﻿using Microsoft.Data.SqlClient; // Cambia la referencia de System.Data.SqlClient a Microsoft.Data.SqlClient
+﻿using Microsoft.Data.SqlClient;
 using PDF_Server.Flows.DTOs;
 using PDF_Server.Flows.Services.Interfaces;
 using Dapper;

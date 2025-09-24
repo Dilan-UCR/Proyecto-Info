@@ -69,14 +69,12 @@ namespace PDF_Server.Flows.Services
 
                         col.Item().Table(table =>
                         {
-                            // Definir columnas UNA sola vez
                             table.ColumnsDefinition(columns =>
                             {
                                 foreach (var _ in props)
                                     columns.RelativeColumn();
                             });
 
-                            // Header
                             table.Header(header =>
                             {
                                 for (int i = 0; i < props.Length; i++)
