@@ -1,0 +1,2 @@
+﻿	2025-09-24T18:21:09.6813854Z	Error al recuperar datos de Kafka: Subscribed topic not available: pdf-requests: Broker: Unknown topic or partition
+
