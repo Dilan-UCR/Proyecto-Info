@@ -1,18 +1,26 @@
+using PDF_Server.Flows.Services;
+using PDF_Server.Flows.Services.Interfaces;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
+// Configuración de servicios
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.WebHost.UseUrls("http://+:8080");
+builder.Services.AddScoped<IAdventureWorksQueries, AdventureWorksQueries>();
+builder.Services.AddScoped<IPdfGenerator, PdfGenerator>();
+
+builder.Services.AddHostedService<PdfRequestConsumerService>();
+
+// builder.Services.AddHostedService<KafkaLogConsumerBackgroundService>();
+
+builder.WebHost.UseUrls("http://+:5000");
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
+// Configuración del pipeline HTTP
+if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
