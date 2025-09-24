@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81F62EBD-8103-4503-AF76-1F1608EEE0A4}|PDF_Server\\PDF_Server.csproj|c:\\users\\dilan\\source\\repos\\proyecto-info\\pdf_server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{81F62EBD-8103-4503-AF76-1F1608EEE0A4}|PDF_Server\\PDF_Server.csproj|solutionrelative:pdf_server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{81F62EBD-8103-4503-AF76-1F1608EEE0A4}|PDF_Server\\PDF_Server.csproj|c:\\users\\dilan\\source\\repos\\proyecto-info\\pdf_server\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81F62EBD-8103-4503-AF76-1F1608EEE0A4}|PDF_Server\\PDF_Server.csproj|solutionrelative:pdf_server\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81F62EBD-8103-4503-AF76-1F1608EEE0A4}|PDF_Server\\PDF_Server.csproj|c:\\users\\dilan\\source\\repos\\proyecto-info\\pdf_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81F62EBD-8103-4503-AF76-1F1608EEE0A4}|PDF_Server\\PDF_Server.csproj|solutionrelative:pdf_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81F62EBD-8103-4503-AF76-1F1608EEE0A4}|PDF_Server\\PDF_Server.csproj|c:\\users\\dilan\\source\\repos\\proyecto-info\\pdf_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81F62EBD-8103-4503-AF76-1F1608EEE0A4}|PDF_Server\\PDF_Server.csproj|solutionrelative:pdf_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Services\\ApiSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PDF_Server\\Services\\ApiSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Services\\InvoiceService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PDF_Server\\Services\\InvoiceService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Repositories\\Interface\\IInvoiceRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PDF_Server\\Repositories\\Interface\\IInvoiceRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Infrastructure\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PDF_Server\\Infrastructure\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Services\\PdfGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PDF_Server\\Services\\PdfGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PDF_Server\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Services\\Interfaces\\IPdfGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PDF_Server\\Services\\Interfaces\\IPdfGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +46,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Program.cs",
-              "RelativeDocumentMoniker": "PDF_Server\\Program.cs",
-              "ToolTip": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Program.cs",
-              "RelativeToolTip": "PDF_Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ApiSender.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Services\\ApiSender.cs",
+              "RelativeDocumentMoniker": "PDF_Server\\Services\\ApiSender.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Services\\ApiSender.cs",
+              "RelativeToolTip": "PDF_Server\\Services\\ApiSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T19:11:00.912Z"
+              "WhenOpened": "2025-09-24T03:18:22.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\appsettings.json",
+              "RelativeDocumentMoniker": "PDF_Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\appsettings.json",
+              "RelativeToolTip": "PDF_Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-24T03:06:17.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Dockerfile",
-              "RelativeDocumentMoniker": "PDF_Server\\Dockerfile",
-              "ToolTip": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Dockerfile",
-              "RelativeToolTip": "PDF_Server\\Dockerfile",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-23T18:40:01.887Z",
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\docker-compose.yml",
+              "RelativeDocumentMoniker": "PDF_Server\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\docker-compose.yml",
+              "RelativeToolTip": "PDF_Server\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-24T02:59:13.013Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Services\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "PDF_Server\\Services\\InvoiceService.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Services\\InvoiceService.cs",
+              "RelativeToolTip": "PDF_Server\\Services\\InvoiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T03:16:04.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IInvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Repositories\\Interface\\IInvoiceRepository.cs",
+              "RelativeDocumentMoniker": "PDF_Server\\Repositories\\Interface\\IInvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Repositories\\Interface\\IInvoiceRepository.cs",
+              "RelativeToolTip": "PDF_Server\\Repositories\\Interface\\IInvoiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T03:15:54.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PDF_Server\\Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PDF_Server\\Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T03:15:46.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PdfGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Services\\PdfGenerator.cs",
+              "RelativeDocumentMoniker": "PDF_Server\\Services\\PdfGenerator.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Services\\PdfGenerator.cs",
+              "RelativeToolTip": "PDF_Server\\Services\\PdfGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T00:17:08.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PDF_Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PDF_Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T03:14:03.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPdfGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Services\\Interfaces\\IPdfGenerator.cs",
+              "RelativeDocumentMoniker": "PDF_Server\\Services\\Interfaces\\IPdfGenerator.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\Proyecto-Info\\PDF_Server\\Services\\Interfaces\\IPdfGenerator.cs",
+              "RelativeToolTip": "PDF_Server\\Services\\Interfaces\\IPdfGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T00:17:24.469Z"
             }
           ]
         }
